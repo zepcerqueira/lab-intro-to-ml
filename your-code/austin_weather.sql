@@ -1,3 +1,5 @@
+USE ML_LAB;
+
 CREATE TABLE IF NOT EXISTS austin_weather (
     `Date` DATETIME,
     `TempHighF` INT,
